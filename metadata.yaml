@@ -1,4 +1,8 @@
 _repo: Friedrich-Nietzsche-in-seinen-Werken_50525
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50525-h/images/cover.jpg
 creator:
   author:
     agent_name: Andreas-Salomé, Lou
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37791
     wikipedia: http://en.wikipedia.org/wiki/Lou_Andreas-Salom%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50525#Friedrich-Nietzsche-in-seinen-Werken
 gutenberg_issued: '2015-11-22'
 gutenberg_type: Text
 identifiers:
